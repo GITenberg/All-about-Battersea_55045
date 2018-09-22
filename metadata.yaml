@@ -1,11 +1,16 @@
 _repo: All-about-Battersea_55045
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55045-h/images/cover.jpg
 creator:
   author:
     agent_name: Simmonds, Henry S.
     gutenberg_agent_id: '48165'
     url: http://www.gutenberg.org/2009/agents/48165
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55045#All-about-Battersea
 gutenberg_issued: '2017-07-04'
 gutenberg_type: Text
 identifiers:
